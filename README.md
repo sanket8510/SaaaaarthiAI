@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Saarthi AI
 ### Autonomous Multi-Agent Research and Report Generation System
 
@@ -183,3 +184,6 @@ MIT License — feel free to use and modify.
 ---
 
 *Made with ❤️ using LangGraph, Groq, and Tavily*
+=======
+# SaaaaarthiAI
+>>>>>>> ddfcef6737a00e4173a9686d08a591543a9c0bf9
